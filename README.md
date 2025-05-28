@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Gurpreet<br>A passionate DevOps Engineer from India</h2>
+<h2 align="center">Hi 👋, I'm Gurpreet<br>A passionate Engineer from India</h2>
 
 ###
 
