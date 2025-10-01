@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Gurpreet  
-A passionate Engineer from India  
+A Passionate Engineer from India  
 
 ---
 
