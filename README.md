@@ -4,7 +4,7 @@ A Passionate Engineer from India
 ---
 
 ### 👩‍💻 About Me  
-- 🔭 I’m working on **DevOps | Cloud | Security**  
+- 🔭 I’m working on **SRE | DevOps | Cloud | Security**  
 
 ---
 
